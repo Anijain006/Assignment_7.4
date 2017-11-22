@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment 7.4</string>
+    <string name="usrNameHintStr">Enter Your Email</string>
+    <string name="pwdHintStr">Enter Your Password</string>
+    <string name="loginBtnStr">LOGIN</string>
+    <string name="signUpTxtViewStr">Not a Member? SignUp Now.</string>
+    <string name="welcomeTxtView">Welcome</string>
+
+</resources>
